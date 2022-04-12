@@ -1,0 +1,41 @@
+
+
+body {
+    margin: auto;
+    background-color: rgb(238, 238, 238);
+    display: flex;
+    justify-content:center;
+    
+}
+
+.header {
+    width: 365px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+    
+}
+.informacion {
+    width: 365px;
+    height: 60px;
+    background-color: rgb(255, 255, 255);
+     
+}
+.photo {
+    margin-bottom: -20px;
+}  
+.segundo {
+    
+    text-align:right;
+    width: 50%;
+    float: right;
+    
+
+  }
+  .primero {
+
+    text-align: left;
+    width: 50%;
+    float: left;
+
+  }
